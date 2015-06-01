@@ -1,0 +1,13 @@
+#Box{
+	width: 500px;
+	height: 500px;
+
+}
+
+#domCount{
+
+	font-size: 50px;
+	position: absolute;
+	left: 600px;
+	top: 100px;
+}
